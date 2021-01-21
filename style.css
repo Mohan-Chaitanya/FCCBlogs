@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Handlee&display=swap");
+
+body {
+	margin: 10%;
+	font-family: "Handlee", cursive;
+	font-size: 150%;
+}
+
+h3 {
+	text-align: center;
+}
